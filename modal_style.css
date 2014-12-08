@@ -1,0 +1,29 @@
+.modal-header {
+background-color:rgba(111,111,111,1);
+color:white;
+border-radius:5px;
+-moz-border-radius:5px;
+-webkit-border-radius:5px;
+margin:0px 0px 0xpx 0px;
+padding:10px;
+height:auto;
+}
+.clear-fix{
+clear:both;
+margin:0px;
+}   
+.form-title{
+float:left;
+}
+.close-btn{
+            background-color: rgb(111,111,111);
+            background-repeat:no-repeat;
+            border: none;
+            cursor:pointer;
+            overflow: hidden;
+			float:right;
+}
+
+.modal-body{
+margin:2px;
+}
